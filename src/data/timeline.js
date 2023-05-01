@@ -9,6 +9,7 @@ export default [
   {
     year: "Today",
     title: "UPS Store Associate",
+    company: "UPS Store",
     duration: "2 years",
     details: "I help customers deal with their packages",
   },
